@@ -2028,9 +2028,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\surve\\OneDrive\\Desktop\\New folder\\Cumulative1\\Cumulative01\\Cumulative01.csproj",
-      "projectName": "Cumulative01",
-      "projectPath": "C:\\Users\\surve\\OneDrive\\Desktop\\New folder\\Cumulative1\\Cumulative01\\Cumulative01.csproj",
+      "projectUniqueName": "C:\\Users\\surve\\OneDrive\\Desktop\\New folder\\Cumulative1\\Cumulative01\\Cumulative1-Surve.csproj",
+      "projectName": "Cumulative1-Surve",
+      "projectPath": "C:\\Users\\surve\\OneDrive\\Desktop\\New folder\\Cumulative1\\Cumulative01\\Cumulative1-Surve.csproj",
       "packagesPath": "C:\\Users\\surve\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\surve\\OneDrive\\Desktop\\New folder\\Cumulative1\\Cumulative01\\obj\\",
       "projectStyle": "PackageReference",

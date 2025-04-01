@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cumulative01", "Cumulative01\Cumulative01.csproj", "{E4281198-6141-4486-8217-9FC922BCA090}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cumulative1-Surve", "Cumulative01\Cumulative1-Surve.csproj", "{E4281198-6141-4486-8217-9FC922BCA090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
